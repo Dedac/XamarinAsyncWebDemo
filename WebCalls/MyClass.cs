@@ -18,12 +18,12 @@ namespace WebCalls
         public async Task<Stream> GetFileAsStream()
         {
             Debug.WriteLine("Get File As Stream " + BaseURL);
-            var request = HttpWebRequest.Create(BaseURL);
+            System.Net.Http.HttpClient client = new System.Net.Http.HttpClient();
             Debug.WriteLine("Begin Get Response");
-            var response = await request.GetResponseAsync().ConfigureAwait(false);
+            var response = await client.GetStreamAsync(BaseURL);
             Debug.WriteLine("End Get Response");
 
-            return response.GetResponseStream();
+            return response;
         }
     }
 }

@@ -7,6 +7,6 @@ WebCalls.dll
 System.Runtime.dll
 System.ComponentModel.Composition.dll
 System.Diagnostics.Debug.dll
-System.Net.Requests.dll
-System.Threading.Tasks.dll
+System.Net.Http.dll
 System.IO.dll
+System.Threading.Tasks.dll
