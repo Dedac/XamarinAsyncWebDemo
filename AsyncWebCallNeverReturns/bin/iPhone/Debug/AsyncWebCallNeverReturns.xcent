@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>S45WPC6Z4B.com.your-company.AsyncWebCallNeverReturns</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>QA7Y43DQZ5</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>S45WPC6Z4B.com.your-company.AsyncWebCallNeverReturns</string>
+	</array>
+</dict>
+</plist>

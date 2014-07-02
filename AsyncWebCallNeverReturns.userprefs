@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Richard's iPad" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebCalls/MyClass.cs">
+    <Files>
+      <File FileName="AsyncWebCallNeverReturns/AppDelegate.cs" Line="17" Column="25" />
+      <File FileName="WebCalls/MyClass.cs" Line="24" Column="46" />
+      <File FileName="AsyncWebCallNeverReturns/Main.cs" Line="17" Column="1" />
+      <File FileName="../MobileApp/MSA.MobileApp.ServiceClients/FileService.cs" Line="1" Column="1" />
+      <File FileName="AsyncWebCallNeverReturns/MainViewController.cs" Line="20" Column="9" />
+      <File FileName="AsyncWebCallNeverReturns/MainViewController.designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
