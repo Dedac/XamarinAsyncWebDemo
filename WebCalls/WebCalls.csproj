@@ -34,4 +34,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="ModernHttpClient">
+      <HintPath>..\Lib\ModernHttpClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>

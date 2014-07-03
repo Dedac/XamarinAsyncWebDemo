@@ -1,14 +1,30 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Richard's iPad" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebCalls/MyClass.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPad.7.1" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="AsyncWebCallNeverReturns/AppDelegate.cs" Line="17" Column="25" />
-      <File FileName="WebCalls/MyClass.cs" Line="24" Column="46" />
-      <File FileName="AsyncWebCallNeverReturns/Main.cs" Line="17" Column="1" />
+      <File FileName="AsyncWebCallNeverReturns/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="WebCalls/MyClass.cs" Line="25" Column="13" />
+      <File FileName="AsyncWebCallNeverReturns/Main.cs" Line="13" Column="37" />
       <File FileName="../MobileApp/MSA.MobileApp.ServiceClients/FileService.cs" Line="1" Column="1" />
-      <File FileName="AsyncWebCallNeverReturns/MainViewController.cs" Line="20" Column="9" />
+      <File FileName="AsyncWebCallNeverReturns/MainViewController.cs" Line="50" Column="53" />
       <File FileName="AsyncWebCallNeverReturns/MainViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="../MobileApp/MSA.MobileApp.iOSLib/iOSImageStorage.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="AsyncWebCallNeverReturns" expanded="True">
+            <Node name="ComponentReferenceFolder" expanded="True">
+              <Node name="ComponentReference" selected="True" />
+            </Node>
+            <Node name="MainViewController.cs" expanded="True" />
+          </Node>
+          <Node name="WebCalls" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
